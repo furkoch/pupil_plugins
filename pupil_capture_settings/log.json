@@ -1,0 +1,7 @@
+
+pupil.0: 
+{'confidence': 0.0, 'diameter_3d': 0.0, 'sphere': 
+	{'radius': 12.0, 'center': [-0.5390777752841248, -2.3331636742650503, 19.05915376871523]}, 
+	'circle_3d': {'radius': 0.0, 'center': [0.0, -0.0, 0.0], 'normal': [0.0, -0.0, 0.0]}, 'theta': 0, 'model_id': 312, 'model_confidence': 0.3647462444814842, 'model_birth_timestamp': 92230.16900000001, 'norm_pos': [0.5, 0.5], 'diameter': 0.0, 'topic': 'pupil', 'ellipse': {'axes': [0.0, 0.0], 'center': [640.0, 360.0], 'angle': 90.0}, 'projected_sphere': {'axes': [780.7272127907836, 780.7272127907836], 'center': [622.4636379593737, 284.1014844835977], 'angle': 90.0}, 'method': '3d c++', 'timestamp': 92882.029, 'phi': 0, 'id': 0}
+
+pupil.1: {'confidence': 0.0, 'diameter_3d': 0.0, 'sphere': {'radius': 12.0, 'center': [6.7856566152599, 1.4515174160424817, 21.66355471506635]}, 'circle_3d': {'radius': 0.0, 'center': [0.0, -0.0, 0.0], 'normal': [0.0, -0.0, 0.0]}, 
